@@ -35,7 +35,7 @@ function App() {
           );
         })}
 
-      <button onClick={() => navigate("create")}>Create</button>
+      <button onClick={() => navigate("create")}>Createrrrrrr</button>
     </div>
   );
 }
